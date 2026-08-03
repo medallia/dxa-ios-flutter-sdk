@@ -1,6 +1,6 @@
 //
 // dummy.swift
-// medallia-dxa-ios-sdk
+// medallia-dxa-ios-flutter-sdk
 //
 // Created by Medallia on 11/11/25.
 //

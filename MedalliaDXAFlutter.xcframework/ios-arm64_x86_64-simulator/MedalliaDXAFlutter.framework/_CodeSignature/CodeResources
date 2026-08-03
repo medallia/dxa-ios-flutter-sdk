@@ -10,11 +10,11 @@
 		</data>
 		<key>Headers/MedalliaDXAFlutter-Swift.h</key>
 		<data>
-		ayW5CWiM9uQRZqDAcQfpBvz9bdQ=
+		N2xDxiw7kFKovEPKllIjm+Nn/uU=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		e3NuFx5aQjQx21HzwEo5TfNpqpo=
+		/sqP0rZH7eF2aDMNVRSfBboBhvU=
 		</data>
 		<key>Modules/MedalliaDXAFlutter.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -22,19 +22,19 @@
 		</data>
 		<key>Modules/MedalliaDXAFlutter.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		Yl4hBUS0MmLQFPCUtVdbda9ArjQ=
+		Fp9N7qkFgC+iQAaR07hVKyvAstw=
 		</data>
 		<key>Modules/MedalliaDXAFlutter.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		7HLdIjj9NwmrOYEY7w7qgCzAiCo=
+		cKgQxHFGvkIMeY0TZoyKGaEj9do=
 		</data>
 		<key>Modules/MedalliaDXAFlutter.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		Yl4hBUS0MmLQFPCUtVdbda9ArjQ=
+		Fp9N7qkFgC+iQAaR07hVKyvAstw=
 		</data>
 		<key>Modules/MedalliaDXAFlutter.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		XxcjG/KW6GyYPwcPZ6GFo7eThjs=
+		QlmCgX2szWQaCg1t0MRUtMKPzGY=
 		</data>
 		<key>Modules/MedalliaDXAFlutter.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -42,19 +42,19 @@
 		</data>
 		<key>Modules/MedalliaDXAFlutter.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		FHKZ6XR6qPWuYGzYZyBl3RyI9mg=
+		I1IgqSiaetfTAgQBwljRPhbhgRA=
 		</data>
 		<key>Modules/MedalliaDXAFlutter.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		Dah9wPbTeW33gQYp2W7/bwqgZl8=
+		PaUlQKQAOE2DS1t4vbDJD3zWfWE=
 		</data>
 		<key>Modules/MedalliaDXAFlutter.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		FHKZ6XR6qPWuYGzYZyBl3RyI9mg=
+		I1IgqSiaetfTAgQBwljRPhbhgRA=
 		</data>
 		<key>Modules/MedalliaDXAFlutter.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		7Kap196lyzR7kFbEzlT426Rn/sk=
+		Vm2NrnZFubVJDM9r4Gy2qjql6LA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -78,7 +78,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7coO9qnJDBh99hltSfMqQ5eRgH5k/SuYhfKhiZBgUu0=
+			FMse6xD94BSdnX5Myy2JTgPC9kVsYACxbyY5iOXLfMQ=
 			</data>
 		</dict>
 		<key>Modules/MedalliaDXAFlutter.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -92,28 +92,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Qmt+4c0t44aWkIGqCNWHF6jXFfOJ70eAOjbyH0D5Lhc=
+			fRUx3Eh0Z3art9Gqwq2sJV0M/1BaEagQh9p6Waeslto=
 			</data>
 		</dict>
 		<key>Modules/MedalliaDXAFlutter.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VzWvG7OChSU4y66kpjiuNwi5rMoxlBcTwWWOtNktIpM=
+			pGaWXhjMz5PYdy26C8RFQ/8ZIRzfjVlyhjVo6FMz4YA=
 			</data>
 		</dict>
 		<key>Modules/MedalliaDXAFlutter.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Qmt+4c0t44aWkIGqCNWHF6jXFfOJ70eAOjbyH0D5Lhc=
+			fRUx3Eh0Z3art9Gqwq2sJV0M/1BaEagQh9p6Waeslto=
 			</data>
 		</dict>
 		<key>Modules/MedalliaDXAFlutter.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HTdzQ+E/uVq7qN2tt32PdO1XPwe5AX/HJ98VlmsANwo=
+			nThw6c/g0h3ohtHvTY++9m9O0VYlcoUDkApWeITzcro=
 			</data>
 		</dict>
 		<key>Modules/MedalliaDXAFlutter.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -127,28 +127,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EuaYqb4S/yKGQo8AnthXXLhGxIUHT0ZKuIJ9zPPeUyU=
+			TRxyZTQ3Yd077nI7MJldSNlDSWZ0UsdzVLUK8C8k4YQ=
 			</data>
 		</dict>
 		<key>Modules/MedalliaDXAFlutter.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TX74c0pFbHyIlbRgpSgsAPNNEXa9VV/9rfvhEoDPxAY=
+			tSL43VfwuuOBiGABeRnAeFbbUQwk6j/irqsdo+fSbSY=
 			</data>
 		</dict>
 		<key>Modules/MedalliaDXAFlutter.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EuaYqb4S/yKGQo8AnthXXLhGxIUHT0ZKuIJ9zPPeUyU=
+			TRxyZTQ3Yd077nI7MJldSNlDSWZ0UsdzVLUK8C8k4YQ=
 			</data>
 		</dict>
 		<key>Modules/MedalliaDXAFlutter.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			okx/05XA8z/6AtrNKkTqxq+YuyWNXK1tc56BlKbXCMc=
+			u8LcQvKetT0YNQ4sRspS13vK2vHOZEAGUENmb51UAjg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
